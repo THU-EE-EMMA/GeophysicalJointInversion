@@ -1,1 +1,1 @@
-# Geohpysical_Joint_Inversion
+# Geophysical_Joint_Inversion
